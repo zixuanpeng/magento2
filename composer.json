@@ -1,0 +1,11 @@
+{
+   "github-oauth": {
+     "github.com": "MAG003445119"
+   },
+   "http-basic": {
+      "repo.magento.com": {
+         "username": "bad626dd0e90f227005143bfe02d42a8",
+         "password": "8cd481f29d9e0409588e2c33afaa80f7"
+      }
+   }
+}
